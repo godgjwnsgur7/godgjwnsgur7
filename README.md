@@ -6,7 +6,9 @@
 
 📚 Unity 탐구 중
 
-💌 개인 공부 블로그 
+💌 개인 공부 블로그
+
+[![blog](http://img.shields.io/badge/blog-Tistory-orange?style=flatr&link=https://godgjwnsgur7.tistory.com/)](https://godgjwnsgur7.tistory.com/)
 
 🌞 출시한 게임
   
