@@ -19,5 +19,5 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godgjwnsgur7&show_icons=true&theme=스타일)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=godgjwnsgur7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godgjwnsgur7&layout=compact&theme=tokyonight)
